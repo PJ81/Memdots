@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    border: 0;
+    font-family: 'Gruppo', cursive;
+}
+
+body {
+    background-color: #111;
+    text-align: center;
+}
+
+canvas {
+    background-color: #000;
+    border: 1px solid #ddd;
+    margin: 40px auto;
+}
